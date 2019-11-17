@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Taylor Wiley</title>
-    <link>https://trwiley.github.io/tags/</link>
-    <description>Recent content in Tags on Taylor Wiley</description>
+    <title>Categories on Taylor Wiley</title>
+    <link>https://trwiley.github.io/categories/</link>
+    <description>Recent content in Categories on Taylor Wiley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2019 Taylor Wiley</copyright>
     
-	<atom:link href="https://trwiley.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://trwiley.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

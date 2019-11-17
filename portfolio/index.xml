@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolios on Taylor Wiley</title>
-    <link>https://example.org/portfolio/</link>
+    <link>https://trwiley.github.io/portfolio/</link>
     <description>Recent content in Portfolios on Taylor Wiley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2019 Taylor Wiley</copyright>
     <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
     
-	<atom:link href="https://example.org/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://trwiley.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Miscellaneous ArcGIS Tools</title>
-      <link>https://example.org/portfolio/helperscripts/</link>
+      <link>https://trwiley.github.io/portfolio/helperscripts/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/helperscripts/</guid>
+      <guid>https://trwiley.github.io/portfolio/helperscripts/</guid>
       <description> In my day-to-day work, I work a lot with enterprise-level ArcGIS systems and as a part of this, I write a lot of Python scripts for working with these systems. Here are a few tools I&amp;rsquo;ve written with the purpose of reusing them.
 Links  Geodatabase Migration Command Line Tools ArcGIS Hosted Feature Service Publishing Workflow  </description>
     </item>
     
     <item>
       <title>Model Viewer</title>
-      <link>https://example.org/portfolio/modelviewer/</link>
+      <link>https://trwiley.github.io/portfolio/modelviewer/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/modelviewer/</guid>
+      <guid>https://trwiley.github.io/portfolio/modelviewer/</guid>
       <description> Simple web app for viewing 3D models. Built in vanilla HTML, CSS, and JavaScript.
 Links  GitHub Repository Live version of the application  </description>
     </item>
     
     <item>
       <title>Opewave (2019)</title>
-      <link>https://example.org/portfolio/opewave/</link>
+      <link>https://trwiley.github.io/portfolio/opewave/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/opewave/</guid>
+      <guid>https://trwiley.github.io/portfolio/opewave/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Running Ball</title>
-      <link>https://example.org/portfolio/runningball/</link>
+      <link>https://trwiley.github.io/portfolio/runningball/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/runningball/</guid>
+      <guid>https://trwiley.github.io/portfolio/runningball/</guid>
       <description>A simple game created in Unity where the player controls a ball in order to get it from one side of an obstacle course to another before time runs out.
 Links Game download</description>
     </item>
     
     <item>
       <title>Sad Amiga (2019)</title>
-      <link>https://example.org/portfolio/sad_amiga/</link>
+      <link>https://trwiley.github.io/portfolio/sad_amiga/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/sad_amiga/</guid>
+      <guid>https://trwiley.github.io/portfolio/sad_amiga/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sonifying Asian Pottery Data</title>
-      <link>https://example.org/portfolio/sonification/</link>
+      <link>https://trwiley.github.io/portfolio/sonification/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/sonification/</guid>
+      <guid>https://trwiley.github.io/portfolio/sonification/</guid>
       <description>Sonification is a technique that can be used to explore data through the mapping of data parameters to sound parameters. It can be used to explore data in an experimental way that may reveal aspects of the data that are not obvious when looking at a visualization. Here, I used Max/MSP to create a sonification of Asian pottery data.
 Links If you want to learn more about this project, check out the links below:</description>
     </item>
     
     <item>
       <title>The Ope (2019)</title>
-      <link>https://example.org/portfolio/the_ope/</link>
+      <link>https://trwiley.github.io/portfolio/the_ope/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/the_ope/</guid>
+      <guid>https://trwiley.github.io/portfolio/the_ope/</guid>
       <description></description>
     </item>
     
