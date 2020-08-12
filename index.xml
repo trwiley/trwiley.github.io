@@ -6,20 +6,83 @@
     <description>Recent content on Taylor Wiley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy;2019 Taylor Wiley</copyright>
     <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
     
 	<atom:link href="https://trwiley.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Miscellaneous ArcGIS Tools</title>
-      <link>https://trwiley.github.io/portfolio/helperscripts/</link>
+      <title>Opewave (2019)</title>
+      <link>https://trwiley.github.io/portfolio/opewave/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://trwiley.github.io/portfolio/helperscripts/</guid>
-      <description> In my day-to-day work, I work a lot with enterprise-level ArcGIS systems and as a part of this, I write a lot of Python scripts for working with these systems. Here are a few tools I&amp;rsquo;ve written with the purpose of reusing them.
-Links  Geodatabase Migration Command Line Tools ArcGIS Hosted Feature Service Publishing Workflow  </description>
+      <guid>https://trwiley.github.io/portfolio/opewave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sad Amiga (2019)</title>
+      <link>https://trwiley.github.io/portfolio/sad_amiga/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://trwiley.github.io/portfolio/sad_amiga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Ope (2019)</title>
+      <link>https://trwiley.github.io/portfolio/the_ope/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://trwiley.github.io/portfolio/the_ope/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Corporate Superhero (2020)</title>
+      <link>https://trwiley.github.io/portfolio/corporate_superhero/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://trwiley.github.io/portfolio/corporate_superhero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fellows (2020)</title>
+      <link>https://trwiley.github.io/portfolio/fellows/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://trwiley.github.io/portfolio/fellows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Landlord Registration</title>
+      <link>https://trwiley.github.io/portfolio/landlord_registration/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://trwiley.github.io/portfolio/landlord_registration/</guid>
+      <description> Tool built in Vue for landlords to register their South Bend properties and property managers.
+Link  Live Version More About the Initiative  </description>
+    </item>
+    
+    <item>
+      <title>Pyramid (2020)</title>
+      <link>https://trwiley.github.io/portfolio/pyramid/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://trwiley.github.io/portfolio/pyramid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RE:Pear</title>
+      <link>https://trwiley.github.io/portfolio/re-pear/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://trwiley.github.io/portfolio/re-pear/</guid>
+      <description> Game made for Global Game Jam 2020 and a lesson in chosing your tools correctly and scoping.
+Links  Godot Version GBStudio Version Assets  </description>
     </item>
     
     <item>
@@ -33,15 +96,6 @@ Links  GitHub Repository Live version of the application  </description>
     </item>
     
     <item>
-      <title>Opewave (2019)</title>
-      <link>https://trwiley.github.io/portfolio/opewave/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      
-      <guid>https://trwiley.github.io/portfolio/opewave/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Running Ball</title>
       <link>https://trwiley.github.io/portfolio/runningball/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
@@ -52,15 +106,6 @@ Links Game download</description>
     </item>
     
     <item>
-      <title>Sad Amiga (2019)</title>
-      <link>https://trwiley.github.io/portfolio/sad_amiga/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      
-      <guid>https://trwiley.github.io/portfolio/sad_amiga/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Sonifying Asian Pottery Data</title>
       <link>https://trwiley.github.io/portfolio/sonification/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
@@ -68,15 +113,6 @@ Links Game download</description>
       <guid>https://trwiley.github.io/portfolio/sonification/</guid>
       <description>Sonification is a technique that can be used to explore data through the mapping of data parameters to sound parameters. It can be used to explore data in an experimental way that may reveal aspects of the data that are not obvious when looking at a visualization. Here, I used Max/MSP to create a sonification of Asian pottery data.
 Links If you want to learn more about this project, check out the links below:</description>
-    </item>
-    
-    <item>
-      <title>The Ope (2019)</title>
-      <link>https://trwiley.github.io/portfolio/the_ope/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      
-      <guid>https://trwiley.github.io/portfolio/the_ope/</guid>
-      <description></description>
     </item>
     
   </channel>
