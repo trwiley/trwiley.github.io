@@ -8,20 +8,11 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate><atom:link href="https://trwiley.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Corporate Superhero (2020)</title>
-      <link>https://trwiley.github.io/portfolio/corporate_superhero/</link>
+      <title>Ghosts (2020)</title>
+      <link>https://trwiley.github.io/portfolio/ghosts/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://trwiley.github.io/portfolio/corporate_superhero/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fellows (2020)</title>
-      <link>https://trwiley.github.io/portfolio/fellows/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      
-      <guid>https://trwiley.github.io/portfolio/fellows/</guid>
+      <guid>https://trwiley.github.io/portfolio/ghosts/</guid>
       <description></description>
     </item>
     
@@ -32,15 +23,62 @@
       
       <guid>https://trwiley.github.io/portfolio/landlord_registration/</guid>
       <description>Tool built in Vue for landlords to register their South Bend properties and property managers.
-Link  Live Version More About the Initiative  </description>
+Links  Live Version More About the Initiative  </description>
     </item>
     
     <item>
-      <title>Opewave (2019)</title>
-      <link>https://trwiley.github.io/portfolio/opewave/</link>
+      <title>Landlord Registration Redesign Proposal</title>
+      <link>https://trwiley.github.io/portfolio/landlord_redesign/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://trwiley.github.io/portfolio/opewave/</guid>
+      <guid>https://trwiley.github.io/portfolio/landlord_redesign/</guid>
+      <description>As a part of an overall initiative to improve the UI and UX of the City of South Bend&amp;rsquo;s Landlord Registration web application, I created wireframes in Figma showing what a potential redesign of the site may look like - these are highly subject to change currently.
+Links  Google Drive folder containing select wireframes More About the Initiative  </description>
+    </item>
+    
+    <item>
+      <title>Personal Site Redesign (WIP)</title>
+      <link>https://trwiley.github.io/portfolio/new_site/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://trwiley.github.io/portfolio/new_site/</guid>
+      <description>A redesign of my personal site that is a work in progress. The site will be built in Nuxt.js and will use primarily plain CSS for styling.
+Links  More screenshots of the HTML/CSS mockup  </description>
+    </item>
+    
+    <item>
+      <title>Strong Man (2020)</title>
+      <link>https://trwiley.github.io/portfolio/strong_man/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://trwiley.github.io/portfolio/strong_man/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Smoogle (2021)</title>
+      <link>https://trwiley.github.io/portfolio/the_smoogle/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://trwiley.github.io/portfolio/the_smoogle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blob Man (2021)</title>
+      <link>https://trwiley.github.io/portfolio/blob_man/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://trwiley.github.io/portfolio/blob_man/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SB Flag with Blobs (2020)</title>
+      <link>https://trwiley.github.io/portfolio/sb_flag/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://trwiley.github.io/portfolio/sb_flag/</guid>
       <description></description>
     </item>
     
@@ -51,7 +89,7 @@ Link  Live Version More About the Initiative  </description>
       
       <guid>https://trwiley.github.io/portfolio/blob/</guid>
       <description>A simple walking simulator made in GB Studio to demonstrate the usefulness of GBS for making bitsy-like games with fewer limitations.
-Links  Play the game on itch.io GitHub  </description>
+Links  Play the game on itch.io GitHub Link Assets  </description>
     </item>
     
     <item>
@@ -65,11 +103,11 @@ Links  Godot Version GBStudio Version Assets  </description>
     </item>
     
     <item>
-      <title>Pyramid (2020)</title>
-      <link>https://trwiley.github.io/portfolio/pyramid/</link>
+      <title>Opewave (2019)</title>
+      <link>https://trwiley.github.io/portfolio/opewave/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://trwiley.github.io/portfolio/pyramid/</guid>
+      <guid>https://trwiley.github.io/portfolio/opewave/</guid>
       <description></description>
     </item>
     
@@ -84,15 +122,6 @@ Links Game download</description>
     </item>
     
     <item>
-      <title>Sad Amiga (2019)</title>
-      <link>https://trwiley.github.io/portfolio/sad_amiga/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      
-      <guid>https://trwiley.github.io/portfolio/sad_amiga/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Sonifying Asian Pottery Data</title>
       <link>https://trwiley.github.io/portfolio/sonification/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
@@ -100,25 +129,6 @@ Links Game download</description>
       <guid>https://trwiley.github.io/portfolio/sonification/</guid>
       <description>Sonification is a technique that can be used to explore data through the mapping of data parameters to sound parameters. It can be used to explore data in an experimental way that may reveal aspects of the data that are not obvious when looking at a visualization. Here, I used Max/MSP to create a sonification of Asian pottery data.
 Links If you want to learn more about this project, check out the links below:</description>
-    </item>
-    
-    <item>
-      <title>The Ope (2019)</title>
-      <link>https://trwiley.github.io/portfolio/the_ope/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      
-      <guid>https://trwiley.github.io/portfolio/the_ope/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Model Viewer</title>
-      <link>https://trwiley.github.io/portfolio/modelviewer/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      
-      <guid>https://trwiley.github.io/portfolio/modelviewer/</guid>
-      <description>Simple web app for viewing 3D models. Built in vanilla HTML, CSS, and JavaScript.
-Links  GitHub Repository Live version of the application  </description>
     </item>
     
   </channel>
