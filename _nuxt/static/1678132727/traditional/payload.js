@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/traditional", {data:[{}],fetch:{},mutations:void 0});

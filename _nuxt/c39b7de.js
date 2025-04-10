@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{261:function(n,t,r){"use strict";r.r(t);var c={name:"BackArrow"},o=r(43),component=Object(o.a)(c,(function(){var n=this._self._c;return n("NuxtLink",{attrs:{to:"/"}},[n("img",{staticStyle:{margin:"12px"},attrs:{src:"img/icons-and-links/back-arrow.png"}})])}),[],!1,null,null,null);t.default=component.exports}}]);
