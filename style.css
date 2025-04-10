@@ -1,0 +1,102 @@
+@font-face {
+    font-family: "DOSV";
+    src: url('dosv.woff') format('woff');
+    font-style: normal;
+    font-weight: normal;
+}
+
+body {
+    background-color: aliceblue;
+    background-image: url("img/alleyway.png");
+    font-family: "DOSV", "Courier New", monospace;
+}
+
+
+h1, h2{
+    font-family: "DOSV", "Courier New", monospace;
+    font-style: normal;
+    font-weight: normal;
+}
+
+h1{
+    font-size: 48px;
+}
+
+a{
+    color: aliceblue;
+}
+
+a:visited{
+    color: pink;
+}
+
+.side-navbar{
+    background-color: rgb(0 0 139/40%);
+    /*background-color: royalblue;*/
+    font-family: "DOSV", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px; 
+    border: solid;
+    border-width: 5px;
+    border-top-color: aliceblue;
+    border-left-color: aliceblue;
+    border-right-color: darkblue;
+    border-bottom-color: darkblue;
+    color: aliceblue;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    /*filter: drop-shadow(-20px 20px 8px darkblue);*/
+
+}
+
+.content-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-content-section{
+    background-color: rgb(0 0 139/40%);
+    font-size: 20px; 
+    border: solid;
+    border-width: 5px;
+    border-top-color: aliceblue;
+    border-left-color: aliceblue;
+    border-right-color: darkblue;
+    border-bottom-color: darkblue;
+    color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    width: 70%;
+
+}
+
+.navbar-item:hover{
+    text-shadow: 0 0 7px aliceblue;
+}
+
+.navbar-item{
+    margin: 20px;
+}
+
+.navbar-item a{
+    color: aliceblue;
+}
+
+.gallery{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px; /* Adjust the gap between grid items */
+}
+
+.icon-align{
+    display: flex; 
+    flex-direction: row; 
+    align-items: right; 
+    justify-content: right;
+}
+
+
