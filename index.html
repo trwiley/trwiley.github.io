@@ -3,6 +3,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>uncool's hideout</title>
         <link href="style.css" rel="stylesheet" type="text/css" media="all">
         <style>
@@ -55,6 +56,52 @@
                 background-image: url("img/main_page/Shapey_frame_2.png");
                 width: 200px;
                 height: 200px;
+            }
+
+            @media (max-width: 1300px){
+                .container{
+                    flex-direction: column;
+                    align-items: center;
+                    width: 100%;
+                }
+
+                .side-navbar{
+                    order: 1;
+                    box-sizing: border-box;
+                    width: min(900px, 100%);
+                    height: auto;
+                    flex-direction: column;
+                    text-align: center;
+                }
+
+                .center-image{
+                    order: 2;
+                    width: min(900px, 100%);
+                    height: auto;
+                    aspect-ratio: 9 / 7;
+                    background-size: contain;
+                    background-position: center;
+                    background-repeat: no-repeat;
+                }
+
+                .side-images{
+                    order: 3;
+                    flex-direction: row;
+                    flex-wrap: wrap;
+                    justify-content: center;
+                    width: 100%;
+                }
+            }
+
+            @media (max-width: 600px){
+                .navbar-item{
+                    margin: 12px;
+                }
+
+                #hover-image img{
+                    max-width: 100%;
+                    height: auto;
+                }
             }
         </style>
 
