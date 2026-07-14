@@ -1,0 +1,63 @@
+/* Responsive layout shared by the artwork gallery pages. */
+
+.main-content-section {
+    box-sizing: border-box;
+    max-width: 1100px;
+}
+
+.gallery {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.gallery a {
+    display: block;
+    min-width: 0;
+}
+
+.gallery img {
+    display: block;
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    margin: 0 auto;
+}
+
+/* Smaller desktops and tablets: use two comfortably sized columns. */
+@media (max-width: 1100px) {
+    .main-content-section {
+        width: 90%;
+    }
+
+    .gallery {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 20px;
+    }
+}
+
+/* Phones and narrow windows: stack thumbnails in one column. */
+@media (max-width: 600px) {
+    h1 {
+        font-size: 36px;
+    }
+
+    .content-container .main-content-section {
+        width: 100%;
+        padding: 18px;
+    }
+
+    .gallery {
+        grid-template-columns: minmax(0, 1fr);
+        gap: 16px;
+    }
+
+    .gallery img {
+        max-width: 100%;
+    }
+
+    .icon-align > img {
+        max-width: 100%;
+        height: auto;
+    }
+}
