@@ -1,6 +1,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>uncool's hideout</title>
         <link href="../style.css" rel="stylesheet" type="text/css" media="all">
         <style>
@@ -9,8 +10,52 @@
             }
             .main-content-section{
                 padding: 30px;
+                box-sizing: border-box;
+                max-width: 1100px;
             }
-          
+            .main-content-section img{
+                max-width: 100%;
+                height: auto;
+            }
+            .main-content-section iframe{
+                display: block;
+                width: 100%;
+                max-width: 728px;
+                height: auto;
+                aspect-ratio: 16 / 9;
+            }
+            .main-content-section figure{
+                box-sizing: border-box;
+                max-width: 100%;
+            }
+
+            @media (max-width: 900px){
+                .main-content-section{
+                    width: 90%;
+                }
+                .main-content-section > div[style*="flex-direction: row"]{
+                    flex-wrap: wrap;
+                    justify-content: center;
+                }
+            }
+
+            @media (max-width: 600px){
+                h1{
+                    font-size: 36px;
+                }
+                .main-content-section{
+                    width: 100%;
+                    padding: 18px;
+                }
+                .main-content-section > div[style*="flex-direction: row"]{
+                    flex-direction: column !important;
+                    align-items: center;
+                }
+                .main-content-section figure{
+                    width: 100%;
+                    margin: 0 0 24px;
+                }
+            }
         </style>
     </head>
     <body>
