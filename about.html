@@ -1,12 +1,34 @@
 <html>
     <head>
         <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>uncool's hideout</title>
         <link href="style.css" rel="stylesheet" type="text/css" media="all">
         <style>
-           
+            @media (max-width: 900px){
+                .main-content-section{
+                    box-sizing: border-box;
+                    width: 90%;
+                }
+            }
 
-          
+            @media (max-width: 600px){
+                h1{
+                    font-size: 36px;
+                    line-height: 1.1;
+                }
+                .main-content-section{
+                    width: 100%;
+                    padding: 18px;
+                    font-size: 18px;
+                    line-height: 1.5;
+                    overflow-wrap: anywhere;
+                }
+                .icon-align > img{
+                    max-width: 100%;
+                    height: auto;
+                }
+            }
         </style>
     </head>
     <body>
