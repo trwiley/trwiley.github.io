@@ -1,0 +1,70 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>uncool's hideout</title>
+        <link href="../style.css" rel="stylesheet" type="text/css" media="all">
+        <style>
+            .gallery{
+                display: grid;
+                grid-template-columns: repeat(2, minmax(0, 1fr));
+                gap: 24px; /* Adjust the gap between grid items */
+            }
+            .gallery img{
+                width: 100% !important;
+                max-width: 450px;
+                height: auto;
+            }
+            .main-content-section{
+                box-sizing: border-box;
+                max-width: 1100px;
+            }
+
+            @media (max-width: 900px){
+                .main-content-section{
+                    width: 90%;
+                }
+                .gallery{
+                    gap: 18px;
+                }
+            }
+
+            @media (max-width: 600px){
+                h1{
+                    font-size: 36px;
+                }
+                .main-content-section{
+                    width: 100%;
+                    padding: 18px;
+                }
+                .gallery{
+                    grid-template-columns: minmax(0, 1fr);
+                    gap: 16px;
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <h1 style="text-align: center; color: aliceblue;">Shape Moods (2026)</h1>
+        <div class="content-container">
+            <div class="content main-content-section">
+                <p>A series of vector illistrations inspired by the works of Osamu Sato.</p>
+                <div class="gallery">
+                    <img style="width: 450px; height: auto;" src="../img/gallery/shape_moods/fractal.png" />
+                    <img style="width: 450px; height: auto;" src="../img/gallery/shape_moods/circles.png" />
+                    <img style="width: 450px; height: auto;" src="../img/gallery/shape_moods/seeingeye.png" />
+                    <img style="width: 450px; height: auto;" src="../img/gallery/shape_moods/teardrop.png" />
+                    <img style="width: 450px; height: auto;" src="../img/gallery/shape_moods/alien.png" />
+                    <img style="width: 450px; height: auto;" src="../img/gallery/shape_moods/ameobafly.png" />
+                    <img style="width: 450px; height: auto;" src="../img/gallery/shape_moods/bug.png" />
+                    <img style="width: 450px; height: auto;" src="../img/gallery/shape_moods/flyer.png" />
+                    <img style="width: 450px; height: auto;" src="../img/gallery/shape_moods/nubby.png" /> 
+                </div>
+                <a style="margin-top: 24px;" href="../gallery.html">take me back to the gallery</a>
+               
+            </div>  
+
+
+        </div>
+    </body>
+</html>
